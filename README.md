@@ -1,2 +1,2 @@
 # LLMdasboard
-dashboard that is used show all llm interactions
+dashboard that is used show all llm interactions.
